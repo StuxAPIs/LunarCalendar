@@ -1,9 +1,16 @@
 # Changelog
 
 All notable changes made in the StuxAPIs fork of Lunar Calendar API are
-documented here. Versions follow [Semantic Versioning](https://semver.org/)
-(MAJOR.MINOR.PATCH) and track this fork independently of upstream's own
-version badge. For upstream history, see [hnthap/lunar-calendar-api](https://github.com/hnthap/lunar-calendar-api).
+documented here, tracking this fork independently of upstream's own version
+badge. For upstream history, see [hnthap/lunar-calendar-api](https://github.com/hnthap/lunar-calendar-api).
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## v1.0.2
+
+### Changed
+- This changelog's preamble now uses the standard Keep a Changelog wording
 
 ## v1.0.1
 
