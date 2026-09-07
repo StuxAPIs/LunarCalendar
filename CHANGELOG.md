@@ -1,0 +1,14 @@
+# Changelog
+
+All notable changes made in the StuxAPIs fork of Lunar Calendar API are
+documented here. Versions follow [Semantic Versioning](https://semver.org/)
+(MAJOR.MINOR.PATCH) and track this fork independently of upstream's own
+version badge. For upstream history, see [hnthap/lunar-calendar-api](https://github.com/hnthap/lunar-calendar-api).
+
+## v1.0.0
+
+### Added
+- `VERSION.md`, `CHANGELOG.md`, `CONTRIBUTING.md`, `commit.sh`/`commit.bat` — brought the fork onto the standard StuxAPIs release flow (bump `VERSION.md`, update this changelog, run `commit.sh`/`commit.bat` to commit and tag `vX.Y.Z`)
+
+### Changed
+- `README.md` given a Stux.Group logo header and a fork/hosting note pointing back at the upstream project and license

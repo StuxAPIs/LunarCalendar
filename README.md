@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://media.stux.group/global/logo.png" width="300" alt="Stux.Group">
+</p>
+
 # Lunar Calendar API
+
+*Fork hosted by [StuxAPIs](https://github.com/StuxAPIs) — original project by [hnthap](https://github.com/hnthap), see [License](#license) below.*
 
 [![Pre-release](https://img.shields.io/badge/version-v0.3.0-blue?style=for-the-badge&logo=github)](https://github.com/hnthap/lunar-calendar-api)
 [![GitHub Stars](https://img.shields.io/github/stars/hnthap/lunar-calendar-api?style=for-the-badge&logo=github)](https://github.com/hnthap/lunar-calendar-api/stargazers)
