@@ -5,6 +5,11 @@ documented here. Versions follow [Semantic Versioning](https://semver.org/)
 (MAJOR.MINOR.PATCH) and track this fork independently of upstream's own
 version badge. For upstream history, see [hnthap/lunar-calendar-api](https://github.com/hnthap/lunar-calendar-api).
 
+## v1.0.1
+
+### Changed
+- `README.md`'s "StuxAPIs is part of the Stux.Group Brand of Companies" line now includes the Stux.Group icon inline
+
 ## v1.0.0
 
 ### Added
