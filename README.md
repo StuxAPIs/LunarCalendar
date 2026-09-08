@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.stux.group/global/logo.png" width="300" alt="Stux.Group">
+  <img src="https://global.media.stuxapis.net/logo.png" width="300" alt="StuxAPIs">
 </p>
 
 # Lunar Calendar API
@@ -310,5 +310,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ---
 
-*Built & Maintained by <img src="https://github.com/StuxAPIs.png" height="14" alt="StuxAPIs" valign="middle"> [StuxAPIs](https://github.com/StuxAPIs), Hosted by <img src="https://github.com/Stuxedo.png" height="14" alt="Stuxedo" valign="middle"> [Stuxedo](https://stuxedo.com).    
+*Built & Maintained by <img src="https://global.media.stuxapis.net/icon.png" height="14" alt="StuxAPIs" valign="middle"> [StuxAPIs](https://github.com/StuxAPIs), Hosted by <img src="https://github.com/Stuxedo.png" height="14" alt="Stuxedo" valign="middle"> [Stuxedo](https://stuxedo.com).    
 StuxAPIs is a part of the <img src="https://media.stux.group/global/icon.png" height="14" alt="Stux.Group" valign="middle"> Stux.Group brand of businesses.*

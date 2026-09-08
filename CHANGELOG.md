@@ -7,6 +7,11 @@ badge. For upstream history, see [hnthap/lunar-calendar-api](https://github.com/
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.0.4
+
+### Changed
+- `README.md`'s header logo now shows StuxAPIs' own logo (`https://global.media.stuxapis.net/logo.png`) instead of the generic Stux.Group fallback, and the footer "Built & Maintained by StuxAPIs" icon now uses StuxAPIs' own icon instead of the GitHub org avatar — now that StuxAPIs has real branding of its own, more specific than the org-wide Stux.Group fallback
+
 ## v1.0.3
 
 ### Changed
