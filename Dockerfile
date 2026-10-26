@@ -2,7 +2,7 @@
 # Installing all dependencies and compiling the TypeScript code into
 # JavaScript.
 
-FROM node:24.7.0-alpine3.21 AS builder
+FROM node:24.22.1-alpine3.24 AS builder
 WORKDIR /app
 COPY package*.json .
 RUN npm ci
@@ -13,7 +13,7 @@ RUN npm run build
 # Production image with only the compiled JavaScript code and production
 # dependencies.
 
-FROM node:24.7.0-alpine3.21
+FROM node:24.22.1-alpine3.24
 WORKDIR /app
 COPY --from=builder /root/.npm /root/.npm
 COPY package*.json .

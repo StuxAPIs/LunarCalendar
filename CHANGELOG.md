@@ -7,6 +7,12 @@ badge. For upstream history, see [hnthap/lunar-calendar-api](https://github.com/
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.10.26
+
+### Security
+
+- The Docker image is built on Node.js 24.22.1 (`node:24.22.1-alpine3.24`) instead of Node.js 24.7.0 on Alpine 3.21, which fixes the Brotli decoder vulnerability CVE-2026-111497. Rebuild any running container to pick it up
+
 ## v26.10.23
 
 ### Added
