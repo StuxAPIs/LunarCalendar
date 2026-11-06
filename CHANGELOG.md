@@ -4,8 +4,14 @@ All notable changes made in the StuxAPIs fork of Lunar Calendar API are
 documented here, tracking this fork independently of upstream's own version
 badge. For upstream history, see [hnthap/lunar-calendar-api](https://github.com/hnthap/lunar-calendar-api).
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+Each release's sections follow a fixed order: Added, Changed, Fixed, Removed, Security, Deprecated. This project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## v26.11.06
+
+### Changed
+
+- The README notes that StuxAPIs' hosted instance (lunarcalendar.stuxapis.net) is coming soon and isn't live yet
+- The changelog intro gives the fixed section order (Added, Changed, Fixed, Removed, Security, Deprecated) instead of citing Keep a Changelog, whose order differs
 
 ## v26.10.26
 
