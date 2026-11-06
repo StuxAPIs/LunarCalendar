@@ -6,6 +6,10 @@
 
 *Fork hosted by [StuxAPIs](https://github.com/StuxAPIs) — original project by [hnthap](https://github.com/hnthap), see [License](#license) below.*
 
+> [!NOTE]
+> StuxAPIs' own hosted instance, at `lunarcalendar.stuxapis.net`, is coming soon: the site isn't live yet. Until
+> then, run it locally or deploy your own (see below).
+
 [![Pre-release](https://img.shields.io/badge/version-v0.3.0-blue?style=for-the-badge&logo=github)](https://github.com/hnthap/lunar-calendar-api)
 [![GitHub Stars](https://img.shields.io/github/stars/hnthap/lunar-calendar-api?style=for-the-badge&logo=github)](https://github.com/hnthap/lunar-calendar-api/stargazers)
 
