@@ -1,6 +1,6 @@
 {
   "name": "lunar_calendar",
-  "version": "26.10.2600",
+  "version": "26.11.0601",
   "description": "",
   "scripts": {
     "start": "node js/src",
